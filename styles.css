@@ -37,6 +37,10 @@ body{
     text-transform: lowercase;
 }
 
+#btn:hover{
+    background-color: #6fb7d1;
+}
+
 .result{
     display: flex;
     flex-direction: row;
